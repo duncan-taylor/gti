@@ -5,3 +5,4 @@ SYSDATE
 
 1 row selected.
 
+dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot
