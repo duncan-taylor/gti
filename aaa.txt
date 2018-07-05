@@ -4,6 +4,8 @@ SYSDATE
 ---------
 23-JAN-18
 
-1 row BBB selected.
+1 row AAA selected.
 
 dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot dot....
+
+AAA
