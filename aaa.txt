@@ -1,5 +1,7 @@
 BBB
 
+release_2 minor correction
+
 SYSDATE
 ---------
 23-JAN-18
